@@ -114,7 +114,9 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 <h1 align="center"> 🏆 GitHub Trophies </h1>
 <br>
 <p align="center"> 
-	<a href="https://github-profile-trophy.vercel.app/?username=DhairyaParikh31&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="DhairyaParikh31" /></a> 
+	<a href="https://github-profile-trophy.vercel.app/?username=DhairyaParikh31&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=DhairyaParikh31&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
