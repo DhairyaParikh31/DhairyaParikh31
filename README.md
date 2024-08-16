@@ -125,8 +125,6 @@ I'm a Software Developer based in India 🙏, I am passionate about software dev
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 ![snake gif](https://github.com/DhairyaParikh31/DhairyaParikh31/blob/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
