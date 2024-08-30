@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/DhayanandhS) -->
+   <!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/DhayanandhS) -->
 
 
 <div align="center">
@@ -17,7 +17,7 @@
 <!-- I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. -->
 
 <h3 align="center">
-I'm a Software Developer based in India 🙏, I am passionate about software development, coding, and web technologies❤️. 
+I'm a Software Developer based in India 🙏, I am passionate about software development and coding❤️. 
 	Besides my studies, I like to create and contribute to projects that solve a real problem. It helps me learn a lot and grow as a developer while also being able to become a help.
 </h3>
  <br />
