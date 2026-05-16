@@ -42,7 +42,7 @@ I'm a Software Developer based in India 🙏, I am passionate about software dev
 
 - 📫 How to reach me **dhairyaparikh31@gmail.com**
 
-- ⚡ Fun fact **I love solving escape rooms—great practice for debugging my code under pressure!**
+- ⚡ Fun fact **I love solving puzzles with time constraint — great practice for debugging the code under pressure!**
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
   
