@@ -30,7 +30,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=DhairyaParikh31&label=Profile%20Views&color=f59e0b&style=flat-square" />
-<img src="https://img.shields.io/github/followers/DhairyaParikh31?label=Followers&style=flat-square&color=c2410c&labelColor=1e1b2e" />
+<img src="https://img.shields.io/badge/dynamic/json?color=c2410c&labelColor=1e1b2e&style=flat-square&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDhairyaParikh31" />
 <img src="https://img.shields.io/badge/dynamic/json?color=ea580c&label=Total%20Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDhairyaParikh31%2Fstarred&style=flat-square&labelColor=1e1b2e" />
 
 </div>
