@@ -1,130 +1,306 @@
-   <!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/DhayanandhS) -->
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1410,50:92400E,100:1A1410&height=220&section=header&text=Dhairya%20Parikh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=18&descColor=FDE68A" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB923C&center=true&vCenter=true&width=600&lines=Software+Engineer;Systems+%26+Backend+Engineering;Building+Projects+that+actually+work!!;Open+to+Freelance+%26+Contract+Work" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-EA580C?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-India-F59E0B?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-C2410C?style=flat-square&logo=briefcase&logoColor=white" />
+
+<br/><br/>
+
+<a href="http://dhairyaparikh.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FB923C?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dhairya-parikh-8410b225b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-EA580C?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dhairyaparikh31@gmail.com">
+  <img src="https://img.shields.io/badge/Email-C2410C?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/DhairyaParikh31" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-7C2D12?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DhairyaParikh31&label=Profile%20Views&color=f59e0b&style=flat-square" />
+<img src="https://img.shields.io/github/followers/DhairyaParikh31?label=Followers&style=flat-square&color=c2410c&labelColor=1e1b2e" />
+<img src="https://img.shields.io/badge/dynamic/json?color=ea580c&label=Total%20Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDhairyaParikh31%2Fstarred&style=flat-square&labelColor=1e1b2e" />
+
+</div>
+
+<br/>
+
+> ___
+
+<br/>
+
+## 🧠 About Me
+
+<img align="right" width="280" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="0" height="0" />
+
+I'm **Dhairya Parikh**, a **Software Engineer** focused on **systems programming, backend engineering, and database internals and an AI-ML enthusiast**, with a strong foundation in **full-stack web development**.
+
+I enjoy going beyond frameworks — building things like key-value stores, reverse proxies, and SQL engines **from scratch** to deeply understand how the systems we use every day actually work under the hood.
+
+- 🔬 Deep interest in **databases, OS internals, networking, and concurrency**
+- 🌐 Comfortable across the stack — **Java, Kotlin, JavaScript, Node.js, MongoDB**
+- 🚀 Product-engineering mindset — I care about performance, correctness, and real-world impact, not just "making it work"
+
+```yaml
+Open To: Freelance & Contract Work — Backend, Systems, Full Stack
+```
+
+<br/>
+
+> ___
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-<!-- <img  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="html5" width="300" height="300"/> -->
-<img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="html5" width="600" height="350" />
 
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=go,java,kotlin,js,py,cpp" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,redis" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,docker,grafana,prometheus,vscode" />
 
 </div>
-<h1 align="center">Hi , I'm Dhairya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-<!--   <a href="https://github.com/ChaitanyaLonarkar"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a> -->
-  <a href="https://github.com/DhairyaParikh31"><img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&pause=1000&color=14F774&random=false&width=435&lines=Software+Developer+%F0%9F%98%8A;Soon+Full+Stack+Developer+%F0%9F%98%81%20&center=true&width=500&height=50"></a>
-</p>
 
+<br/>
 
-<!-- I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. -->
+> ___
 
-<h3 align="center">
-I'm a Software Developer based in India 🙏, I am passionate about software development and coding❤️. 
-	Besides my studies, I like to create and contribute to projects that solve a real problem. It helps me learn a lot and grow as a developer while also being able to become a help.
-</h3>
- <br />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br/>
 
+## 🤖 AI / ML Expertise
 
-<!-- <div align="center">
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Machine Learning Fundamentals** | ⭐⭐⭐☆☆ | Supervised learning, model evaluation, applied via coursework and personal projects |
+| **Data Structures for ML/Systems** | ⭐⭐⭐⭐☆ | B-Trees, LSM-Trees, hashing — core structures used in ML data pipelines and storage engines |
+| **Python for AI/Data** | ⭐⭐⭐☆☆ | NumPy, Pandas, scripting for data preprocessing and experimentation |
+| **Applied AI Tooling** | ⭐⭐⭐☆☆ | Exploring integration of AI-assisted tooling into engineer workflows |
+
 </div>
-[![Profile Hits](https://hits.sh/github.com/ChaitanyaLonarkar.svg)](https://hits.sh/github.com/ChaitanyaLonarkar/)
-</div> --> 
+
+<br/>
+
+> ___
+
+<br/>
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🔐 VaultKV — Disk-Persistent Key-Value Storage Engine (WAL + LSM-Tree)</b></summary>
+<br/>
+
+A Redis/RocksDB-lite built from scratch in **Go**: a disk-persistent key-value store using a **Write-Ahead Log (WAL)** for crash recovery and an **LSM-Tree** for efficient writes. Includes a memtable, on-disk SSTables, background compaction, and a simple TCP server for network access. Benchmarked against naive read/write approaches with documented tradeoffs.
+
+| Category | Details |
+|---|---|
+| **Stack** | Go |
+| **Scale** | Disk-persistent storage, multi-SSTable architecture with compaction |
+| **Performance** | Benchmarked reads/writes vs. naive approaches with documented tradeoffs |
+| **Security** | Write-Ahead Log (WAL) ensures crash recovery and durability |
+| **Impact** | Demonstrates production-grade understanding of storage engine internals (memtables, SSTables, compaction) |
+| **Repository** | [github.com/DhairyaParikh31/vaultkv](https://github.com/DhairyaParikh31/vaultkv) |
+
+</details>
 
 
-- 🔭 I’m currently learning and working on MERN Stack (Full Stack Technologies)
+<br/>
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+> ___
 
-<!--- 👨‍💻 All of my projects are available at [https://chaitanyalonarkar.netlify.app/](https://chaitanyalonarkar.netlify.app/) --> 
+<br/>
 
-- 📫 How to reach me **dhairyaparikh31@gmail.com**
+## 💼 Experience
 
-- ⚡ Fun fact **I love solving puzzles with time constraint — great practice for debugging the code under pressure!**
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+#### **Software Engineer** · Windowmaker
+**2025 – Present**
 
-  
+Worked on real-world query optimization and backend performance tuning, and completely created multiple features which directly became a cause of increase in customer.
+
+- Optimized database queries and backend response times
+- Worked with storage and networking layers to improve application performance
+- Collaborated on production-facing systems with a focus on reliability
+
+`Backend` `Query Optimization` `Performance Tuning` `Databases`
+
+<br/>
+
+> ___
+
+<br/>
+
+## 🏅 Achievements
+
 <div align="center">
-<h1 >Languages and Tools 💻</h1>
-	
-![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<!--
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)  
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
--->
-</div>
-<br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+| Recognition | Details |
+|---|---|
+| 🦈 Pull Shark | Multiple merged pull requests across repositories |
+| 🤝 Pair Extraordinaire | Collaborative coding via co-authored commits |
+| ⚡ Quickdraw | Fast issue/PR response |
+| 🎲 YOLO | Merged a PR without review |
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DhairyaParikh31&label=Profile%20views&color=0e75b6&style=flat" alt="DhairyaParikh31" /> </p>
-
-
-<h1 align="center">Let's Connect</h1>
-<p align="center">
-  <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:dhairyaparikh31@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-	<a href="https://github.com/DhairyaParikh31"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/dhairya-parikh-8410b225b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	<!--<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-<br>
-<div  align="center" >
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DhairyaParikh31&bg_color=000000&title_color=FFA500&text_color=FFA500&hide_border=false&include_all_commits=false&count_private=false"/<br/><br/>
-  <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=DhairyaParikh31&background=000000&ring=FFA500&fire=FFA500&currStreakNum=FFA500&sideNums=FFA500&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFA500&hide_border=false" /><br/><br/>
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhairyaParikh31&bg_color=000000&title_color=FFA500&text_color=FFA500&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br/>
 
-<div align="center">  
+> ___
 
+<br/>
 
+## 📜 Certifications
 
+**AWS**
 
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-C2410C?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
+**NPTEL**
 
-<h1 align="center"> 🏆 GitHub Trophies </h1>
-<br>
-<p align="center"> 
-	<a href="https://github-profile-trophy.vercel.app/?username=DhairyaParikh31&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-    <img src="https://github-profile-trophy.vercel.app/?username=DhairyaParikh31&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-EA580C?style=for-the-badge&logo=googlescholar&logoColor=white" />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br/>
 
+> ___
 
-![snake gif](https://github.com/DhairyaParikh31/DhairyaParikh31/blob/output/github-contribution-grid-snake-dark.svg)
+<br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/DhairyaParikh31" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FB923C?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/DhairyaParikh31" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-EA580C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/DhairyaParikh31" target="_blank"><img src="https://img.shields.io/badge/HackerRank-7C2D12?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/DhairyaParikh31" target="_blank"><img src="https://img.shields.io/badge/CodeChef-C2410C?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+> ___
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DhairyaParikh31&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FB923C&icon_color=FB923C&text_color=C9D1D9&border_color=EA580C&hide_border=false" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DhairyaParikh31&theme=tokyonight&background=0D1117&ring=FB923C&fire=FB923C&currStreakLabel=FB923C&border=EA580C&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhairyaParikh31&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FB923C&text_color=C9D1D9&border_color=EA580C&hide_border=false" />
+
+</div>
+
+<br/>
+
+> ___
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhairyaParikh31&theme=tokyo-night&bg_color=0D1117&color=FB923C&line=FB923C&point=FDBA74&hide_border=true" />
+
+</div>
+
+<br/>
+
+> ___
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/DhairyaParikh31/DhairyaParikh31/raw/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br/>
+
+> ___
+
+<br/>
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - AI and Machine Learning Fundamentals
+  - System designing & Distributed Systems 
+
+Exploring:
+  - Artificial Intelligence and Machine Learning
+  - Distributed Computing
+
+Open To:
+  - Freelance & Contract Work
+  - Software Engineering Roles
+```
+
+<br/>
+
+> ___
+
+<br/>
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:dhairyaparikh31@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-C2410C?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dhairya-parikh-8410b225b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-EA580C?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/DhairyaParikh31" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-7C2D12?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="http://dhairyaparikh.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FB923C?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"Build it from scratch — that's the only way to truly understand it."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1410,50:92400E,100:1A1410&height=120&section=footer" />
+
+</div>
