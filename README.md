@@ -124,7 +124,6 @@ A Redis/RocksDB-lite built from scratch in **Go**: a disk-persistent key-value s
 | **Scale** | Disk-persistent storage, multi-SSTable architecture with compaction |
 | **Performance** | Benchmarked reads/writes vs. naive approaches with documented tradeoffs |
 | **Security** | Write-Ahead Log (WAL) ensures crash recovery and durability |
-| **Impact** | Demonstrates production-grade understanding of storage engine internals (memtables, SSTables, compaction) |
 | **Repository** | [github.com/DhairyaParikh31/vaultkv](https://github.com/DhairyaParikh31/vaultkv) |
 
 </details>
